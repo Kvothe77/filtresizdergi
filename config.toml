@@ -1,0 +1,4 @@
+baseURL = "https://filtresizdergi.netlify.app/"
+languageCode = "tr"
+title = "Filtresizdergi"
+theme = "LoveIt"
